@@ -9,8 +9,8 @@ module.exports = {
         "mint-one": "#d2e5d3",
         "mint-two": "#b3d3b4",
         "mint-three": "#94c195",
-        "mint-btn": "#477c48",
-        "mint-hover": "#355d36"
+        "mint-four": "#477c48",
+        "mint-five": "#355d36"
       }
     },
   },
